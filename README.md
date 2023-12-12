@@ -5,16 +5,16 @@ Welcome to my repository for the module **Emerging Technologies**. Here, you wil
 ## Table of Contents
 
 1. [Tasks](#tasks)
-    - [The Collatz Conjecture Problem](#task-1)
-    - [Approximating Square Roots](#task-2)
-    - [Counting Possible Functions](#task-3)
-    - [Matrix Multiplication](#task-4)
+    - The Collatz Conjecture Problem
+    - Approximating Square Roots
+    - Counting Possible Functions
+    - Matrix Multiplication
   
 2. [Project](#project)
 
 ---
 
-## Tasks
+## [Tasks](/tasks.ipynb)
 
 ### Task 1: The Collatz Conjecture Problem
 *The Collatz Conjectuce Problem[[1]](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/) is a famous unsolved problem in mathematics. It's a relatively simple, yet intriguing mathematical puzzle that has stumped mathematics for decades.*
@@ -31,7 +31,7 @@ This question, in a sense, is a question of combinations.*
 
 ---
 
-## Project
+## [Project](/project.ipynb)
 
 ### Deutsch's Algorithm Exploration
 The project focuses on Deutsch's algorithm, a fundamental quantum computing concept. The Jupyter notebook provides an in-depth exploration of the algorithm, including problem formulation, classical solutions, and quantum advantages.

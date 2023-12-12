@@ -17,16 +17,17 @@ Welcome to my repository for the module **Emerging Technologies**. Here, you wil
 ## Tasks
 
 ### Task 1: The Collatz Conjecture Problem {#task-1}
-*Description of the first task.*
+*The Collatz Conjectuce Problem[[1]](https://www.quantamagazine.org/why-mathematicians-still-cant-solve-the-collatz-conjecture-20200922/) is a famous unsolved problem in mathematics. It's a relatively simple, yet intriguing mathematical puzzle that has stumped mathematics for decades.*
 
 ### Task 2: Approximating Square Roots
-*Description of the second task.*
+*This function $sqrt(x)$ starts with an initial guess z0, and it repeatedly improves the guess using the formula for Newton's method[[2]](https://en.wikipedia.org/wiki/Newton's_method) until the difference between consecutive guesses is less than the specified threshold. The result is an approximation of the square root of the input number x[[3]](https://www.geeksforgeeks.org/square-root-of-a-number-without-using-sqrt-function/).*
 
 ### Task 3: Counting Possible Functions
-*Description of the third task.*
+*How many times do you need to call the function to be certain what function it is?
+This question, in a sense, is a question of combinations.*
 
 ### Task 4: Matrix Multiplication
-*Description of the fourth task.*
+*Matrix multiplication is a binary operation that produces another matrix by multiplying two matrices. The elements of the matrix are multiplied using basic arithmetic. When two matrices are multiplied, the row elements of the first matrix are multiplied by the column elements of the second matrix.[[4]](https://www.toppr.com/guides/python-guide/examples/python-examples/native-datatypes/multiply-matrix/python-program-to-multiply-two-matrices/)*
 
 ---
 

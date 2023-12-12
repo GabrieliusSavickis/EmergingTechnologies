@@ -16,7 +16,7 @@ Welcome to my repository for the module **Emerging Technologies**. Here, you wil
 
 ## Tasks
 
-### Task 1: The Collatz Conjecture Problem
+### Task 1: The Collatz Conjecture Problem {#task-1}
 *Description of the first task.*
 
 ### Task 2: Approximating Square Roots

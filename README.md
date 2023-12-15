@@ -22,7 +22,7 @@ To run the notebooks locally or explore the code, follow these steps:
 
       If you don't have Anaconda installed, you can download it from the official website: [Anaconda Downloads](https://www.anaconda.com/products/distribution)
 
-4. Install Required Packages (Qiskit, NumPy):**
+4. Install Required Packages (Qiskit, NumPy):
 
       With the virtual environment activated, you can install the required packages using pip:
 

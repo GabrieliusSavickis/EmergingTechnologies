@@ -16,12 +16,47 @@ To run the notebooks locally or explore the code, follow these steps:
     cd emerging-technologies
     ```
 
-3. Open Jupyter notebooks:
+3. Install the required packages if you haven't already. You can use Anaconda, a popular package manager and environment manager, to create a virtual environment and install the necessary packages.
+
+    - **Anaconda Installation (if not installed):**
+
+      If you don't have Anaconda installed, you can download it from the official website: [Anaconda Downloads](https://www.anaconda.com/products/distribution)
+
+    - **Create a Virtual Environment (optional but recommended):**
+
+      You can create a virtual environment to isolate your project dependencies. Replace `myenv` with the name you want for your environment.
+
+      ```bash
+      conda create --name myenv python=3.8
+      ```
+
+      Activate the virtual environment:
+
+      - **On Windows:**
+
+        ```bash
+        conda activate myenv
+        ```
+
+      - **On macOS and Linux:**
+
+        ```bash
+        source activate myenv
+        ```
+
+    - **Install Required Packages (Qiskit, NumPy):**
+
+      With the virtual environment activated, you can install the required packages using pip:
+
+      ```bash
+      pip install qiskit numpy
+      ```
+
+4. Open Jupyter notebooks:
+
     ```bash
     jupyter notebook
     ```
-
----
 
 ## Table of Contents
 

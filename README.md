@@ -2,6 +2,27 @@
 
 Welcome to my repository for the module **Emerging Technologies**. Here, you will find two Jupyter notebooks containing the tasks I completed during the semester and the final project.
 
+## Getting Started
+
+To run the notebooks locally or explore the code, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/emerging-technologies.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd emerging-technologies
+    ```
+
+3. Open Jupyter notebooks:
+    ```bash
+    jupyter notebook
+    ```
+
+---
+
 ## Table of Contents
 
 1. [Tasks](#tasks)
@@ -52,23 +73,4 @@ The project focuses on Deutsch's algorithm, a fundamental quantum computing conc
 
 ---
 
-## Getting Started
 
-To run the notebooks locally or explore the code, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/emerging-technologies.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd emerging-technologies
-    ```
-
-3. Open Jupyter notebooks:
-    ```bash
-    jupyter notebook
-    ```
-
----

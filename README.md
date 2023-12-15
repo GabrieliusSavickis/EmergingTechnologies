@@ -22,29 +22,7 @@ To run the notebooks locally or explore the code, follow these steps:
 
       If you don't have Anaconda installed, you can download it from the official website: [Anaconda Downloads](https://www.anaconda.com/products/distribution)
 
-    - **Create a Virtual Environment (optional but recommended):**
-
-      You can create a virtual environment to isolate your project dependencies. Replace `myenv` with the name you want for your environment.
-
-      ```bash
-      conda create --name myenv python=3.8
-      ```
-
-      Activate the virtual environment:
-
-      - **On Windows:**
-
-        ```bash
-        conda activate myenv
-        ```
-
-      - **On macOS and Linux:**
-
-        ```bash
-        source activate myenv
-        ```
-
-    - **Install Required Packages (Qiskit, NumPy):**
+4. Install Required Packages (Qiskit, NumPy):**
 
       With the virtual environment activated, you can install the required packages using pip:
 
@@ -52,7 +30,7 @@ To run the notebooks locally or explore the code, follow these steps:
       pip install qiskit numpy
       ```
 
-4. Open Jupyter notebooks:
+5. Open Jupyter notebooks:
 
     ```bash
     jupyter notebook
